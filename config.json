@@ -1,0 +1,20 @@
+  
+{
+    "token": "ODMyOTgyMzY4OTA5MzkzOTgw.YHrtSA.9l45ocdkvRoxlkWxsICVtcgkPaQ",
+    "botVoiceChannel": "832377037872300042",
+    "Durum": "HESK",
+    "Owner": "827865508615290921",
+    "prefix": ".",
+    "guildID": "818114335183208448",
+    "booster": "828259678374330429",
+    "jail": "827990583326146622",
+    
+    "Log": {
+      "ChannelLog": "828006616460034099",
+      "RoleLog": "828006616460034099",
+      "GuildUpdateLog": "828006616460034099",
+      "BotAddLog": "828006616460034099",
+      "KickLog": "828006616460034099",
+      "BanLog": "828006616460034099"
+    }
+  }
